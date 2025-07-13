@@ -69,7 +69,7 @@ I build practical tools to help users and teams defend privacy, evade surveillan
 ## 📬 Contact Me
 
 - 💬 Twitter/X: [@secwatch92](https://x.com/secwatch92)  
-- 📧 Email: secwatch92[at]protonmail[dot]com  
+- 📧 Email: secwatch92[at]gmail[dot]com  
 - 🌐 Website: Coming Soon!  
 
 ---
