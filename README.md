@@ -20,7 +20,8 @@ I build practical solutions to protect users from surveillance and censorship �
 - 🔐 [**GhostTunnel**](https://github.com/secwatch92/GhostTunnel): Obfuscated VPN using WireGuard + Cloak  
 - 🎭 [**ShadowPath-VPN-Suite**](https://github.com/secwatch92/ShadowPath-VPN-Suite): Multi-path rotating VPN with stealth techniques  
 - 🛡️ [**linux-harden**](https://github.com/secwatch92/linux-harden): Bash script to secure your Linux servers in minutes
-
+- 🔐 [**FortiWeb-RCE-Toolkit**](https://github.com/secwatch92/fortiweb_rce_toolkit): A powerful and modular PoC tool for CVE‑2025‑25257 in Fortinet FortiWeb
+- 🔍 [**ArgusScope**](https://github.com/secwatch92/ArgusScope): ArgusScope is a modular CLI tool for domain and subdomain enumeration, leveraging Python and MongoDB
 ---
 
 ## 🎯 Skills & Focus Areas
